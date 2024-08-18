@@ -36,7 +36,7 @@ Future Developments
 Streamlit Link
 
 Upon deployment, the LungSureAI application will be accessible at:
-[https://lungsureai.streamlit.app]
+https://lungsureai.streamlit.app
 
 Contact Information
 
