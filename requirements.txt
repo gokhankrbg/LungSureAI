@@ -61,19 +61,8 @@ pydotplus==2.0.2
 Pygments
 pyparsing==3.1.2
 pyzmq
-scikit-learn==1.5.0
+scikit-learn==1.5.0  # sklearn yerine scikit-learn eklendi
 scipy==1.13.1
 seaborn==0.13.2
 shap==0.46.0
 six
-sklearn
-statsmodels==0.14.2
-streamlit==1.36.0
-tornado
-tqdm==4.66.4
-typing_extensions
-urllib3
-websocket-client
-widgetsnbextension
-xgboost==2.1.0
-yfinance==0.2.41
